@@ -22,7 +22,7 @@
 		<spring-framework.version>3.2.8.RELEASE</spring-framework.version>
 		
 		<!-- Lucene  -->
-		<lucene.version>4.10.4</lucene.version>
+		<lucene.version>8.3.1</lucene.version>
 
 		<!-- Hibernate / JPA -->
 		<hibernate.version>4.2.1.Final</hibernate.version>
